@@ -21,11 +21,3 @@ I am a skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript,
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pawank06&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="350px" height = "350px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Pawank06&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
