@@ -16,7 +16,7 @@
 #### Where to find me
 
 - Here 👋
-- [Twitter 🦜](https://twitter.com/near0xl)
+- [Twitter 🦜](https://x.com/near0lx)
 - [Email ✉️](pawan06kumar2003@gmail.com)
 - [Linkedin 🌍](https://www.linkedin.com/in/heypawanz/)
 
